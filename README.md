@@ -1,0 +1,1 @@
+This is a simple python program which mimics the magic 8 ball. A magic 8 ball is a toy that you can ask questions and it gives you interesting responses based on preset answers fed into it. The program uses a simple if else loop to simulate the same experience.
